@@ -16,21 +16,12 @@ A cloud administrator uses Amazon RDS to set up, manage and scale a relational d
 - Database maintenance for your WordPress site is critical. Your database instance holds all of your important data for your WordPress site. If the database goes down, your  website may go down with it, and you could even lose your data.
  
 - Database maintenance can also be difficult, and database administrators have years of specialized experience. When setting up a WordPress site, you want to stay focused on designing your page and generating your content, not worrying about database performance and backups.
- AWS Experience
-Intermediate
- Time to Complete
-50 minutes
- Cost to Complete
-Free Tier eligible*
- Tutorial Prereqs
-AWS Account with administrator-level access**
-Recommended browser: The latest version of Chrome or Firefox
-[*]This estimate assumes you follow the recommended configurations throughout the tutorial and terminate all resources upon completion.
-[**]Accounts created within the past 24 hours might not yet have access to the services required for this tutorial.
 
-Amazon RDS for MySQL helps with both of these problems. Amazon RDS for MySQL is a managed database offering from AWS. With Amazon RDS for MySQL, you get:
-Automated backup and recovery so that you won’t lose data in the event of an accident;
-Regular updates and patches, keeping your database secure and performant;
-Easy installation with smart default parameters.
+- Amazon RDS for MySQL helps with both of these problems. Amazon RDS for MySQL is a managed database offering from AWS. With Amazon RDS for MySQL, you get:
+ 1. Automated backup and recovery so that you won’t lose data in the event of an accident;
+ 2. Regular updates and patches, keeping your database secure and performant;
+ 3. Easy installation with smart default parameters.
  
 These features allow you to get a fast, reliable database without requiring specialized database knowledge. You can get on your way faster and start building your website.
+# lets start
+- go to the this file here you can see the whole imlimentation of the 'RDS' and 'Wordpress Application' [Contribution guidelines for this project](docs/implementation.md)
