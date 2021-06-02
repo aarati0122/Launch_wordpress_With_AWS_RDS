@@ -24,4 +24,4 @@ A cloud administrator uses Amazon RDS to set up, manage and scale a relational d
  
 These features allow you to get a fast, reliable database without requiring specialized database knowledge. You can get on your way faster and start building your website.
 # lets start
-- go to the this file here you can see the whole imlimentation of the 'RDS' and 'Wordpress Application' [Contribution guidelines for this project](docs/implementation.md)
+- go to the this file here you can see the whole imlimentation of the 'RDS' and 'Wordpress Application' [Click Here](docs/implementation.md)
