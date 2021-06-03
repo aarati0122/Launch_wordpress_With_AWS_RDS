@@ -30,5 +30,3 @@ In this task 1st we required the AWS Account for launching any service so we can
 - Select Next Step [Step2](docs/create_mysql_RDS.md)
 
 
-
-
