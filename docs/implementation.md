@@ -27,6 +27,7 @@ In this task 1st we required the AWS Account for launching any service so we can
 
 ![step6](https://user-images.githubusercontent.com/60148173/120528372-013d4e00-c3f9-11eb-92a3-7605e6b953a1.PNG)
 
+- Select Next Step [Step2](docs/create_mysql_RDS.md)
 
 
 
