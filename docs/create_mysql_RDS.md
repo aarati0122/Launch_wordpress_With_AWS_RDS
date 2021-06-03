@@ -38,4 +38,5 @@ If you don’t want to use the AWS Free Tier, you could set a larger instance cl
 
 ![create_db](https://user-images.githubusercontent.com/60148173/120691455-1a5f0100-c4c4-11eb-8111-0ee4a85ee6d8.PNG)
 
+# Select Next [Step2](configure_database.md)
 
