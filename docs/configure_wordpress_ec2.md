@@ -8,8 +8,7 @@ To run WordPress, we need to run a web server on our EC2 instance. The open sour
 > sudo yum install -y httpd
 
 - To start the Apache web server, run the following command in terminal:
-
-![start_system](https://user-images.githubusercontent.com/60148173/120814848-e390f580-c56c-11eb-80d9-99e19c150f3b.PNG)
+> systemctl start httpd
 
 - Then check the Status of Apache service so to run the following command in terminal:
 > systemctl status httpd
