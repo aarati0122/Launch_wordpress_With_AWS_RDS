@@ -24,6 +24,6 @@ In this step, we will make our Apache web server handle requests for WordPress.
 ![webpage](https://user-images.githubusercontent.com/60148173/120821572-39689c00-c573-11eb-846c-b67c21eb6fcf.PNG)
   
 
-That’s it. You have a live, publicly-accessible WordPress installation using a fully-managed MySQL database on Amazon RDS.
+That’s it. You have a live, publicly-accessible WordPress installation using a fully-managed MySQL database on Amazon RDS.And Finally its Work..
   
-Thank You for Reviews this !!!!!!!!!!!!!!
+Thank You for Review this !!!!!!!!!!!!!!
