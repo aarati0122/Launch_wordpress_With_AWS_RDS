@@ -12,7 +12,7 @@ Select this option now if you would like to use this for learning without spendi
 
 ![selectversion](https://user-images.githubusercontent.com/60148173/120689425-b76c6a80-c4c1-11eb-8688-2235a7bde966.PNG)
 
-- In the Settings section, enter wordpress as your DB instance identifier you can give any name for your DB instance. Then specify the master username and password for your database. Choose a strong, secure password to help protect your database. 
+- In the Settings section, enter wordpressdb as your DB instance identifier you can give any name for your DB instance. Then specify the master username and password for your database. Choose a strong, secure password to help protect your database. 
 Store the username and password for safekeeping as you will need it in a later module.
 
 ![settingdb](https://user-images.githubusercontent.com/60148173/120689992-56916200-c4c2-11eb-80ef-82017c711806.PNG)
